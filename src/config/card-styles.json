@@ -90,11 +90,11 @@
 		"enabled": true
 	},
 	"hatCard": {
-		"width": 107,
-		"height": 126,
+		"width": 50,
+		"height": 50,
 		"order": 10,
-		"offsetX": -30,
-		"offsetY": -161,
+		"offsetX": -18,
+		"offsetY": -125,
 		"enabled": true
 	}
 }
