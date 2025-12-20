@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "slug": "3",
     "title": "你是E人，还是I人？",
     "tags": [
@@ -23,6 +24,8 @@
     "category": ""
   },
   {
+=======
+>>>>>>> parent of 75e003a (新增文章: 1)
     "slug": "test",
     "title": "本网站第一篇blog——test",
     "tags": [
