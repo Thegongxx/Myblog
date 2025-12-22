@@ -60,5 +60,6 @@
 	"hideEditButton": true,
 	"enableCategories": true,
 	"currentHatIndex": 2,
-	"hatFlipped": true
+	"hatFlipped": true,
+	"enableChristmas": true
 }
