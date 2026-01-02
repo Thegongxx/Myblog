@@ -40,7 +40,7 @@ const list = [
 	{
 		icon: ShareOutlineSVG,
 		iconActive: ShareFilledSVG,
-		label: '推荐分享',
+		label: 'recommend',
 		href: '/share'
 	},
 ]
